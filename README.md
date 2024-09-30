@@ -26,13 +26,13 @@
 ## ✉️ Contact
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/luizmiguelp" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luizmiguelproenca-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/luiz.analytics" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luiz.analytics-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://www.instagram.com/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/?style=flat&logo=instagram" alt="instagram"/>
 </a>
-  <a href="mailto:luizmiguelproenca@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luizmiguelproenca@gmail.com-05122A?style=flat&logo=gmail" alt="e-mail"/>
+  <a href="" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/@gmail.com-05122A?style=flat&logo=gmail" alt="e-mail"/>
 </a>
 </p>
